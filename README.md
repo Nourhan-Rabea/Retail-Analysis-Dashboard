@@ -91,3 +91,9 @@ These measures power all visuals and allow filtering by **State**, **Retail Chai
 This project demonstrates how **data modeling, DAX, and Power BI** can transform retail data into valuable business insights.  
 It highlights how visualization and analytics can support **data-driven decision-making** in retail management.
 
+---
+## 👩‍💻 Author
+**Nourhan Rabea**  
+📧 [LinkedIn: https://www.linkedin.com/in/nourhan-rabea]  
+💼 Passionate about Data Analytics | Power BI | Business Intelligence
+
